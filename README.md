@@ -20,3 +20,4 @@ Libros: Libros disponibles en la pagina.
 - Usuario-Pedido: Los pedidos contienen detalles como que libro se compro, el monto y la fecha
 - Usuario-Pedido: Pedidos realizados por cada usuario
 
+![[./'Modelo DER.png' ]]
