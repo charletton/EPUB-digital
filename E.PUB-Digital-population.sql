@@ -71,6 +71,7 @@ INSERT INTO USUARIOS(user_name) VALUES
        ('yogi123'),
         ('mysterysolver66');
 
+
 INSERT INTO PEDIDOS(fecha, monto, id_usuario, id_libro) VALUES
        ('2024-01-15', 23000.00, 5, 18),
        ('2024-01-02', 16000.00, 1, 10),

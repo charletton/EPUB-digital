@@ -15,8 +15,8 @@ Libros: Libros disponibles en la pagina.
 
 
 ## Relaciones entre esquemas
-Autor-Libro -> Cada libro tiene su autor
-Libro-Categoria -> Categoria del libro
-Usuario-Pedido -> Los pedidos contienen detalles como que libro se compro, el monto y la fecha
-Usuario-Pedido -> Pedidos realizados por cada usuario
+- Autor-Libro: Cada libro tiene su autor
+- Libro-Categoria: Categoria del libro 
+- Usuario-Pedido: Los pedidos contienen detalles como que libro se compro, el monto y la fecha
+- Usuario-Pedido: Pedidos realizados por cada usuario
 
