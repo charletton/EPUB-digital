@@ -1,6 +1,10 @@
 # E-PUB digital
 Proyecto de una pagina digital en donde se pueden comprar libros.
 
+## Instalacion y uso
+Compilar script de CREATION.sql con ide de MYSQL o terminal
+Compilar script de POPULATION.sql con ide de MYSQL o terminal
+
 ## Esquemas
 - Autores
 - Libros
