@@ -17,7 +17,8 @@ INSERT INTO CATEGORIA(nombre) VALUES
        ('Ciencia'),
        ('Biologia'),
        ('Productividad'),
-       ('Historia');
+       ('Historia'),
+       ('Ficcion');
 
 INSERT INTO LIBROS (nombre, autor_id, categoria_id) VALUES
        ('Cosmos', 2, 3),
@@ -37,7 +38,7 @@ INSERT INTO LIBROS (nombre, autor_id, categoria_id) VALUES
        ('El anitcristo', 9, 1),
        ('Pensar Rapido, Pensar Despacio', 7, 2),
        ('Enfocate', 3,5),
-       ('Minimalismo digital', 3, 4);
+       ('Minimalismo digital', 3, 5);
 
 INSERT INTO USUARIOS(user_name) VALUES
        ('user123'),
