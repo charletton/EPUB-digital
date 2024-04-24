@@ -13,9 +13,12 @@ Vease [manual de instalacion](https://github.com/charletton/EPUB-digital/blob/ma
 
 ## Relaciones entre esquemas
 - Autor-Libro: Cada libro tiene su autor
+- Editorial-Libro: Cada libro tiene su editorial
 - Libro-Categoria: Categoria del libro 
 - Usuario-Pedido: Los pedidos contienen detalles como que libro se compro, el monto y la fecha
 - Usuario-Pedido: Pedidos realizados por cada usuario
+- Comentario-Usuario: El comentario tiene un usuario que realizo el mismo
+- Comentario-libro: Cada comentario va dirigido hacia un libro
 
 ![DER](https://github.com/charletton/EPUB-digital/blob/main/documentacion/Modelo%20DER.png)
 
