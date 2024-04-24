@@ -1,0 +1,10 @@
+--- Instalacion ---
+Descargar IDE sql (recomendado mysql workbench) o utilizarlo desde la terminal
+
+1. Compilar script de CREATION.sql
+2. Compilar script de POPULATION.sql
+3. Compilas script de FUNCTIONS.sql
+3. Compilas script de VIEWS.sql con
+
+Mas informacion de como compilar scripts:
+https://www.youtube.com/watch?v=vaIYl_iMo8Q
