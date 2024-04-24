@@ -20,4 +20,4 @@ Vease [manual de instalacion](https://github.com/charletton/EPUB-digital/blob/ma
 ![DER](https://github.com/charletton/EPUB-digital/blob/main/documentacion/Modelo%20DER.png)
 
 ## Funciones, views y procedures
-Clonar repositorio y vease [manual](https://github.com/charletton/EPUB-digital/blob/main/documentacion/Modelo%20DER.png) (abrir HTML en navegador)
+Clonar repositorio y vease [manual](https://github.com/charletton/EPUB-digital/blob/main/documentacion/Manual.html) (abrir HTML en navegador)
