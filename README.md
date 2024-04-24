@@ -17,7 +17,7 @@ Vease [DER](https://github.com/charletton/EPUB-digital/blob/main/documentacion/i
 - Usuario-Pedido: Los pedidos contienen detalles como que libro se compro, el monto y la fecha
 - Usuario-Pedido: Pedidos realizados por cada usuario
 
-![DER](https://github.com/charletton/EPUB-digital/blob/documentacion/Modelo%20DER.png)
+![DER](https://github.com/charletton/EPUB-digital/blob/main/documentacion/Modelo%20DER.png)
 
 ## Funciones, views y procedures
 Clonar repositorio y vease [manual](https://github.com/charletton/EPUB-digital/blob/main/documentacion/Modelo%20DER.png) (abrir HTML en navegador)
