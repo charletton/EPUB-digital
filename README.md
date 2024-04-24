@@ -2,7 +2,7 @@
 Proyecto de una pagina digital que gestiona la venta libros. Pensado para buscar por categorias, gestionar pedidos de clientes teniendo una vision global de los clientes, material de venta, clientes mas frecuentes, etc.
 
 ## Instalacion
-Vease [manual de instalacion](https://github.com/charletton/EPUB-digital/blob/main/documentacion/instalacion.txt)
+Vease [manual de instalacion](https://github.com/charletton/EPUB-digital/blob/main/documentacion/Instalacion.txt)
 
 ## Esquemas
 - Autores: Este esquema esta compuesto por el id del autor, su numbre junto a una pequena descripcion. 
