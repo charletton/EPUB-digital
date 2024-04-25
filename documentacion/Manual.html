@@ -14,7 +14,9 @@
   body {
       color: black;
   }
-  #content { max-width: 60em; margin: auto; background-color: white }
+  #content { max-width: 60em; margin: auto; background-color: white;
+             padding-left: 20px; padding-right: 20px; padding-top: 10px;
+             padding-bottom: 20px;}
   .title  { text-align: center;
              margin-bottom: .2em; }
   .subtitle { text-align: center;
@@ -274,7 +276,7 @@ Para anadir un libro, necesitamos una serie de argumentos
 </pre>
 </div>
 
-<ol class="org-ol">
+<ul class="org-ul">
 <li>Luego consultaremos la id de la categoria que pertenece (por ejemplo ficcion)</li>
 </ol>
 <div class="org-src-container">
@@ -282,9 +284,9 @@ Para anadir un libro, necesitamos una serie de argumentos
 </pre>
 </div>
 
-<ol class="org-ol">
+<ul class="org-ul">
 <li>Luego de obtener todos los parametros suficientes para anadir al autor, podemos finalmente llamar a la funcion y pasar los respectivos parametros</li>
-</ol>
+</ul>
 
 <div class="org-src-container">
 <pre class="src src-sql"><span style="color: #FF5E5E;">CALL</span> fn_add_book(<span style="color: red;">'Don quijote'</span>, reemmplazar_por_id_autor, reemplazar_id_categoria);

@@ -1,10 +1,13 @@
 --- Instalacion ---
-Descargar IDE sql (recomendado mysql workbench) o utilizarlo desde la terminal
+Descargar IDE sql (recomendado mysql workbench) o utilizarlo desde la terminal. Son 5 scripts en total
+y el orden de compilacion es el siguiente:
 
 1. Compilar script de CREATION.sql
-2. Compilar script de POPULATION.sql
-3. Compilas script de FUNCTIONS.sql
-3. Compilas script de VIEWS.sql con
+2. Compilar script de TRIGGERS.SQL
+3. Compilar script de POPULATION.sql
+4. Compilar script de VIEWS.sql con
+5. Compilar script de FUNCTIONS.sql
+6. Compilar script de PROCEDURES.sql
 
 Mas informacion de como compilar scripts:
 https://www.youtube.com/watch?v=vaIYl_iMo8Q
